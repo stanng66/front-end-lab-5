@@ -35,7 +35,6 @@ function FavouriteMovieList() {
         );
     }; 
 
-    // Upvote and downvote button
     return (
         <div className="movie-grid">
             {movies.map(movie => (
@@ -63,8 +62,8 @@ function MovieItem(props) {
 
           <h3>{props.name}</h3>
           <p>Rating: {props.rating}</p>
-
-          <button onClick={props.onUpvote}>Upvote</button>
+        
+          <button onClick={props.onUpvote}>Upvote</button>  
           <button onClick={props.onDownvote}>Downvote</button>
         </div>
     );
