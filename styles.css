@@ -11,11 +11,11 @@ June 26, 2026
 
 :root { /* Created for consitency and for easier adjustments when needed */
     /* Colour Palette */
-    --clr-primary: #d81b60; /* Deep Pink */ /* original pick - French Mauve #DE83CB */
+    --clr-primary: #d81b60;   /* Deep Pink */ /* original pick - French Mauve #DE83CB */
     --clr-secondary: #9e063d; /* Pink Lavender - #D7B4DC */
-    --clr-accent: #FA86B2; /* Light Pink */
-    --clr-bg-light: #ECE3DE; /* Isabelline */
-    --clr-bg-main: #B0D3E6; /* Columbia Blue */
+    --clr-accent: #FA86B2;    /* Light Pink */
+    --clr-bg-light: #ECE3DE;  /* Isabelline */
+    --clr-bg-main: #B0D3E6;   /* Columbia Blue */
 
     /* Text Colours */
     --clr-text-main: #333333;
