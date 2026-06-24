@@ -6,7 +6,7 @@
 // Ronak Sheth
 // June 26, 2026
 // --------------------
-// This program 
+// This program list a set of favorite items and ratings. Managed rating using state variables. Passing props to its chirldren
 // ====================
 // List containings favorite items
 function FavouriteMovieList() {
